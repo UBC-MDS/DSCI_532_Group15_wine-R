@@ -1,6 +1,6 @@
 # Wine Review Data Visualization Team Project
 
-Deployed dashboard in herokuapp: <https://winevalley.herokuapp.com/>
+Deployed dashboard in herokuapp: <http://winevalley-r.herokuapp.com/>
 
 ## Welcome!
 
