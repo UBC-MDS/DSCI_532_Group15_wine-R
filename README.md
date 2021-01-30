@@ -11,7 +11,7 @@ Deployed dashboard in herokuapp: <http://winevalley-r.herokuapp.com/>
 
 ## What Wine Valley is All About
 
-Have you been trying to track down the perfect wine for the perfect occasion? Look no further! Our app *Wine Valley* will help you do just that! Apply various filters to search through a database of thousands of different wines to find exactly what you're looking for! With *Wine Valley* you can filter by country, price, Wine Enthusiast score and year. Track down the perfect beverage for any occasion! Try it [here](https://winevalley.herokuapp.com/)!
+Have you been trying to track down the perfect wine for the perfect occasion? Look no further! Our app *Wine Valley* will help you do just that! Apply various filters to search through a database of thousands of different wines to find exactly what you're looking for! With *Wine Valley* you can filter by country, price, Wine Enthusiast score and year. Track down the perfect beverage for any occasion! Try it [here](http://winevalley-r.herokuapp.com/)!
 
 ![](image/app_demo_milestone_2.gif)
 
